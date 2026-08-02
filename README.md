@@ -25,10 +25,6 @@ color-changer/
 │── README.md
 ```
 
-## 📸 Screenshot
-
-Add a screenshot of the project here.
-
 ## 📚 What I Learned
 
 - Math.random()
