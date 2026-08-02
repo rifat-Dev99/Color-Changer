@@ -34,4 +34,4 @@ color-changer/
 
 ## 👨‍💻 Author
 
-Developed by **Rifst**
+Developed by **Rifat**
